@@ -1,0 +1,5 @@
+"Id","Title","Body","Tags"
+"1","How to check if an uploaded file is an image without mime type?","<p>I'd like to check if an uploaded file is an image file (e.g png, jpg, jpeg, gif, bmp) or another file. The problem is that I'm using Uploadify to upload the files, which changes the mime type and gives a 'text/octal' or something as the mime type, no matter which file type you upload.</p>
+
+<p>Is there a way to check if the uploaded file is an image apart from checking the file extension using PHP?</p>
+","php image-processing file-upload upload mime-types"
